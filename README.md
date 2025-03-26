@@ -37,8 +37,8 @@ This project is a FastAPI-based implementation using the **Mistral-7B-Instruct-v
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone [https://github.com/aaryan21bansal/rag_csv_analyzer]
+cd rag_csv_analyzer
 ```
 
 ### 2️⃣ Create a Virtual Environment
