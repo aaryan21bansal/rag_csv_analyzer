@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+faiss-cpu
+torch
+transformers
+huggingface_hub
+numpy
+scipy
+requests
+python-dotenv
